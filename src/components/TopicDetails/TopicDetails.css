@@ -1,0 +1,39 @@
+.wraper{
+   width: 100%;
+   display: flex;
+   font-size: 20px;
+}
+
+.main-box{
+   text-align: center;
+}
+.main-box>img{
+   width: 200px;
+   border-radius: 20px;
+}
+.details_btns {
+   display: flex;
+   justify-content: center;
+   width: 600px;
+   margin-top: 50px;
+}
+.details_btns button {
+   font-family: "Montserrat", sans-serif;
+   font-size: 19px;
+   border: none;
+   margin-right: 30px;
+   background: none;
+}
+.details_btns img {
+   width: 30px;
+}
+.details_btns img{
+   width: 30px;
+}
+.edit-textareas{
+   display: flex;
+   flex-direction: column;
+}
+.edit-textareas textarea{
+   margin: 50px 0;
+}
